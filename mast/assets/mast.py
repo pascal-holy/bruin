@@ -2,7 +2,7 @@
 
 name: mast
 type: python
-connection: motherduck-bkw
+connection: motherduck
 
 materialization:
   type: table
